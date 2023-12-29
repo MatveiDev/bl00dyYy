@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bl00dyYy
-- 👀 I’m interested in Jok
+- 👋 Hi, I’m @Matvei
+- 👀 I’m interested in making new creations
 - 🌱 I’m currently learning html,css,python, c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @bloody0983 - discord
